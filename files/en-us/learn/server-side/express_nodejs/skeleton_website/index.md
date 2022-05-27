@@ -228,6 +228,7 @@ Congratulations! You now have a working Express application that can be accessed
 > GET / 304 490.296 ms - -
 > GET /stylesheets/style.css 200 4.886 ms - 111
 > ```
+ Remember,to close the server at anytime press CTRL+C
 
 ## Enable server restart on file changes
 
